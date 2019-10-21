@@ -4,7 +4,6 @@ import { EventEmitter } from '@angular/core';
 @Component({
   selector: 'app-emiter',
   templateUrl: './emiter.component.html',
-  styleUrls: ['./emiter.component.scss']
 })
 export class EmiterComponent implements OnInit {
 
